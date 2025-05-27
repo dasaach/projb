@@ -279,7 +279,8 @@ $is_ajax = isset($_SERVER['HTTP_X_REQUESTED_WITH']) && strtolower($_SERVER['HTTP
             <ul class="tarif__list">
                 <li class="tarif__item">
                     <h4 class="tarif__title-item">Бизнес</h4>
-                    <div class="tarif__price">2000</div>
+                    <div class="tarif__price">25
+                        00</div>
                     <div class="tarif__hour">в час</div>
                     <ul class="tarif__services">
                         <li class="tarif__service">
@@ -307,7 +308,7 @@ $is_ajax = isset($_SERVER['HTTP_X_REQUESTED_WITH']) && strtolower($_SERVER['HTTP
                 </li>
                 <li class="tarif__item active">
                     <h4 class="tarif__title-item">Бизнес</h4>
-                    <div class="tarif__price">2000</div>
+                    <div class="tarif__price">3500</div>
                     <div class="tarif__hour">в час</div>
                     <ul class="tarif__services">
                         <li class="tarif__service">
